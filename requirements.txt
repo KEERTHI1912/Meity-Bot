@@ -1,4 +1,6 @@
 embedchain
+embedchain[opensource]
 pysqlite3-binary
 streamlit
 streamlit_chat
+
