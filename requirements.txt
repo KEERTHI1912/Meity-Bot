@@ -1,3 +1,4 @@
 embedchain
+embedchain[opensource]
 streamlit
 streamlit_chat
