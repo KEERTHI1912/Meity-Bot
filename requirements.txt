@@ -1,3 +1,4 @@
 embedchain
+pysqlite3-binary
 streamlit
 streamlit_chat
